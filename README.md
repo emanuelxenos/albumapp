@@ -21,3 +21,14 @@ Pacotes utilizados no desenvolvimento do app.
 
 ## O que foi abordado nesse app?
 &nbsp;&nbsp;&nbsp; Nesse app foi abordado à arquitetura mvp, não usamos gerenciadores de estado auxiliares. Dessa vez com à arquitetura MVP, ficou mais fácil usar o setState() nativo do flutter.
+
+# Design do app 
+<div>
+  <img src='screencapture/01 - Início.png' width='150'/>
+  <img src='screencapture/02 - Login.png' width='150'/>
+  <img src='screencapture/03 - Cadastro Usuário.png' width='150'/>
+  <img src='screencapture/04 - Home.png' width='150'/>
+  <img src='screencapture/06 - Detalhe figurinha.png' width='150'/>
+  <img src='screencapture/06 - Detalhe figurinha@3x.png' width='150'/>
+  <img src='screencapture/05 - Minhas figurinhas.png' width='150'/>
+</div>
