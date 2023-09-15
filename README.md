@@ -1,16 +1,23 @@
 # albumapp
 
-A new Flutter project.
+Aplicativo de carinhas(figurinhas) da copa.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este foi mais um projeto feito durante um dartWeek com mentoria do Rodrigo Rahaman, tecnologia usada foi flutter como costumo desenvolver(aprender) agora.
 
-A few resources to get you started if this is your first Flutter project:
+Pacotes utilizados no desenvolvimento do app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<ul>
+  <li>top_snackbar_flutter: ^2.1.1</li>
+  <li>loading_animation_widget: ^1.2.0+3</li>
+  <li>flutter_getit: ^1.2.1</li>
+  <li>flutter_dotenv: ^5.0.2</li>
+  <li>dio: ^4.0.6</li>
+  <li>validatorless: ^1.2.1</li>
+  <li>shared_preferences: ^2.0.15</li>
+  <li>flutter_awesome_select: ^6.5.0</li>
+</ul>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## O que foi abordado nesse app?
+&nbsp;&nbsp;&nbsp; Nesse app foi abordado à arquitetura mvp, não usamos gerenciadores de estado auxiliares. Dessa vez com à arquitetura MVP, ficou mais fácil usar o setState() nativo do flutter.
